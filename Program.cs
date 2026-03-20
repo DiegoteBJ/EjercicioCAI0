@@ -12,6 +12,8 @@ namespace EjercicioCAI0
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
+            // Comentario de prueba para el commit
+            // Otro comentario de prueba para el commit
         }
     }
 }
